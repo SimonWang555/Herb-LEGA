@@ -1,0 +1,13 @@
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+dalle2-pytorch==1.1.0
+pydantic==1.10.26
+numpy==2.2.6
+Pillow==12.0.0
+PyYAML==6.0.3
+easydict==1.13
+prettytable==3.17.0
+ftfy==6.3.1
+regex==2025.11.3
+tqdm==4.67.1
+tensorboard==2.18.0
