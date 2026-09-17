@@ -9,7 +9,7 @@
 
 This repository provides the official implementation of **Herb-LEGA**, a CLIP-based dual-encoder framework for fine-grained Chinese herbal medicine image-text retrieval on **Herb163CMR**.
 
-> **Paper:** *Herb163CMR: LLMs-Assisted Multi-Granularity Morphological Description for Fine-Grained Chinese Herbal Medicine Image–Text Retrieval*
+> **Paper:** *Local Feature Enhancement and Generative Alignment for Fine-Grained Chinese Herbal Medicine Image–Text Retrieval*
 >
 > Herb163CMR pairs each image with three structured morphological descriptions: **Macro Form**, **Inner Structure**, and **Micro-Signs**.
 >
